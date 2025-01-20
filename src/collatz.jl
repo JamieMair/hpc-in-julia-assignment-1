@@ -12,7 +12,7 @@ julia> collatz_length(13)
 ```
 """
 function collatz_length(n)
-    # TODO: Implementation should go here!
+    
     return nothing
 end
 
